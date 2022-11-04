@@ -543,7 +543,7 @@
      "id": 61,
      "name": "Aaron Hickey",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "2002-06-10",
      "position": "DF",
      "nationality": "Scotland"
@@ -552,7 +552,7 @@
      "id": 62,
      "name": "Ben Mee",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1989-09-21",
      "position": "DF",
      "nationality": "England"
@@ -561,7 +561,7 @@
      "id": 63,
      "name": "Bryan Mbeumo",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1999-08-07",
      "position": "FW",
      "nationality": "Cameroon"
@@ -570,7 +570,7 @@
      "id": 64,
      "name": "Christian Nørgaard",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1994-03-10",
      "position": "MF",
      "nationality": "Denmark"
@@ -579,7 +579,7 @@
      "id": 65,
      "name": "David Raya",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1995-09-15",
      "position": "GK",
      "nationality": "Spain"
@@ -588,7 +588,7 @@
      "id": 66,
      "name": "Ethan Pinnock",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1993-05-29",
      "position": "DF",
      "nationality": "Jamaica"
@@ -597,7 +597,7 @@
      "id": 67,
      "name": "Frank Onyeka",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1998-01-01",
      "position": "MF",
      "nationality": "Nigeria"
@@ -606,7 +606,7 @@
      "id": 68,
      "name": "Ivan Toney",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1996-03-16",
      "position": "FW",
      "nationality": "England"
@@ -615,7 +615,7 @@
      "id": 69,
      "name": "Keane Lewis-Potter",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "2001-02-22",
      "position": "FW",
      "nationality": "England"
@@ -624,7 +624,7 @@
      "id": 70,
      "name": "Kristoffer Ajer",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1998-04-17",
      "position": "DF",
      "nationality": "Norway"
@@ -633,7 +633,7 @@
      "id": 71,
      "name": "Mathias Jensen",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1996-01-01",
      "position": "MF",
      "nationality": "Denmark"
@@ -642,7 +642,7 @@
      "id": 72,
      "name": "Mikkel Damsgaard",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "2000-07-03",
      "position": "MF",
      "nationality": "Denmark"
@@ -651,7 +651,7 @@
      "id": 73,
      "name": "Pontus Jansson",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1991-02-13",
      "position": "DF",
      "nationality": "Sweden"
@@ -660,7 +660,7 @@
      "id": 74,
      "name": "Rico Henry",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1997-07-08",
      "position": "DF",
      "nationality": "England"
@@ -669,7 +669,7 @@
      "id": 75,
      "name": "Thomas Strakosha",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1995-03-19",
      "position": "GK",
      "nationality": "Albania"
@@ -678,7 +678,7 @@
      "id": 76,
      "name": "Vitaly Janelt",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1998-05-10",
      "position": "MF",
      "nationality": "Germany"
@@ -687,7 +687,7 @@
      "id": 77,
      "name": "Yoane Wissa",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1996-09-03",
      "position": "MF",
      "nationality": "DR Congo"
@@ -696,7 +696,7 @@
      "id": 78,
      "name": "Zanka",
      "teamId": 55,
-     "teamName": "Brentford FC",
+     "teamName": "Brentford",
      "dateOfBirth": "1990-04-23",
      "position": "DF",
      "nationality": "Denmark"
@@ -705,7 +705,7 @@
      "id": 79,
      "name": "Adam Lallana",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1988-05-10",
      "position": "MF",
      "nationality": "England"
@@ -714,7 +714,7 @@
      "id": 80,
      "name": "Adam Webster",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1995-01-04",
      "position": "DF",
      "nationality": "England"
@@ -723,7 +723,7 @@
      "id": 81,
      "name": "Alexis Mac Allister",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1998-12-24",
      "position": "MF",
      "nationality": "Argentina"
@@ -732,7 +732,7 @@
      "id": 82,
      "name": "Billy Gilmour",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "2001-06-11",
      "position": "MF",
      "nationality": "Scotland"
@@ -741,7 +741,7 @@
      "id": 83,
      "name": "Danny Welbeck",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1990-11-26",
      "position": "FW",
      "nationality": "England"
@@ -750,7 +750,7 @@
      "id": 84,
      "name": "Jason Steele",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1990-08-18",
      "position": "GK",
      "nationality": "England"
@@ -759,7 +759,7 @@
      "id": 85,
      "name": "Joël Veltman",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1992-01-15",
      "position": "DF",
      "nationality": "Netherlands"
@@ -768,7 +768,7 @@
      "id": 86,
      "name": "Kaoru Mitoma",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1997-05-20",
      "position": "MF",
      "nationality": "Japan"
@@ -777,7 +777,7 @@
      "id": 87,
      "name": "Leandro Trossard",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1994-12-04",
      "position": "MF",
      "nationality": "Belgium"
@@ -786,7 +786,7 @@
      "id": 88,
      "name": "Lewis Dunk",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1991-11-21",
      "position": "DF",
      "nationality": "England"
@@ -795,7 +795,7 @@
      "id": 89,
      "name": "Moisés Caicedo",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "2001-11-02",
      "position": "MF",
      "nationality": "Ecuador"
@@ -804,7 +804,7 @@
      "id": 90,
      "name": "Pascal Groß",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1991-06-15",
      "position": "MF",
      "nationality": "Germany"
@@ -813,7 +813,7 @@
      "id": 91,
      "name": "Pervis Estupiñán",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1998-01-21",
      "position": "DF",
      "nationality": "Ecuador"
@@ -822,7 +822,7 @@
      "id": 92,
      "name": "Robert Sánchez",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1997-11-18",
      "position": "GK",
      "nationality": "Spain"
@@ -831,7 +831,7 @@
      "id": 93,
      "name": "Solly March",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1994-07-20",
      "position": "MF",
      "nationality": "England"
@@ -840,7 +840,7 @@
      "id": 94,
      "name": "Tariq Lamptey",
      "teamId": 51,
-     "teamName": "Brighton &amp; Hove Albion",
+     "teamName": "Brighton Hove Albion",
      "dateOfBirth": "2000-09-30",
      "position": "DF",
      "nationality": "Ghana"
@@ -849,7 +849,7 @@
      "id": 95,
      "name": "Armando Broja",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "2001-09-10",
      "position": "FW",
      "nationality": "Albania"
@@ -858,7 +858,7 @@
      "id": 96,
      "name": "Ben Chilwell",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1996-12-21",
      "position": "DF",
      "nationality": "England"
@@ -867,7 +867,7 @@
      "id": 97,
      "name": "Carney Chukwuemeka",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "2003-10-20",
      "position": "MF",
      "nationality": "England"
@@ -876,7 +876,7 @@
      "id": 98,
      "name": "César Azpilicueta",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1989-08-28",
      "position": "DF",
      "nationality": "Spain"
@@ -885,7 +885,7 @@
      "id": 99,
      "name": "Christian Pulisic",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1998-09-18",
      "position": "FW",
      "nationality": "United States"
@@ -894,7 +894,7 @@
      "id": 100,
      "name": "Conor Gallagher",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "2000-02-06",
      "position": "MF",
      "nationality": "England"
@@ -903,7 +903,7 @@
      "id": 101,
      "name": "Denis Zakaria",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1996-11-20",
      "position": "MF",
      "nationality": "Switzerland"
@@ -912,7 +912,7 @@
      "id": 102,
      "name": "Edouard Mendy",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1992-03-01",
      "position": "GK",
      "nationality": "Senegal"
@@ -921,7 +921,7 @@
      "id": 103,
      "name": "Hakim Ziyech",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1993-03-19",
      "position": "FW",
      "nationality": "Morocco"
@@ -930,7 +930,7 @@
      "id": 104,
      "name": "Jorginho",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1991-12-20",
      "position": "MF",
      "nationality": "Italy"
@@ -939,7 +939,7 @@
      "id": 105,
      "name": "Kai Havertz",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1999-06-11",
      "position": "FW",
      "nationality": "Germany"
@@ -948,7 +948,7 @@
      "id": 106,
      "name": "Kalidou Koulibaly",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1991-06-20",
      "position": "DF",
      "nationality": "Senegal"
@@ -957,7 +957,7 @@
      "id": 107,
      "name": "Kepa Arrizabalaga",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1994-10-03",
      "position": "GK",
      "nationality": "Spain"
@@ -966,7 +966,7 @@
      "id": 108,
      "name": "Marc Cucurella",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1998-07-22",
      "position": "DF",
      "nationality": "Spain"
@@ -975,7 +975,7 @@
      "id": 109,
      "name": "Mason Mount",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1999-01-10",
      "position": "MF",
      "nationality": "England"
@@ -984,7 +984,7 @@
      "id": 110,
      "name": "Mateo Kovacic",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1994-05-06",
      "position": "MF",
      "nationality": "Croatia"
@@ -993,7 +993,7 @@
      "id": 111,
      "name": "N'Golo Kanté",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1991-03-29",
      "position": "MF",
      "nationality": "France"
@@ -1002,7 +1002,7 @@
      "id": 112,
      "name": "Omari Hutchinson",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "2003-10-29",
      "position": "MF",
      "nationality": "Jamaica"
@@ -1011,7 +1011,7 @@
      "id": 113,
      "name": "Pierre-Emerick Aubameyang",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1989-06-18",
      "position": "FW",
      "nationality": "Gabon"
@@ -1020,7 +1020,7 @@
      "id": 114,
      "name": "Raheem Sterling",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1994-12-08",
      "position": "FW",
      "nationality": "England"
@@ -1029,7 +1029,7 @@
      "id": 115,
      "name": "Reece James",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1999-12-08",
      "position": "DF",
      "nationality": "England"
@@ -1038,7 +1038,7 @@
      "id": 116,
      "name": "Ruben Loftus-Cheek",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1996-01-23",
      "position": "MF",
      "nationality": "England"
@@ -1047,7 +1047,7 @@
      "id": 117,
      "name": "Thiago Silva",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1984-09-22",
      "position": "DF",
      "nationality": "Brazil"
@@ -1056,7 +1056,7 @@
      "id": 118,
      "name": "Trevoh Chalobah",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "1999-07-05",
      "position": "DF",
      "nationality": "England"
@@ -1065,7 +1065,7 @@
      "id": 119,
      "name": "Wesley Fofana",
      "teamId": 49,
-     "teamName": "Chelsea FC",
+     "teamName": "Chelsea",
      "dateOfBirth": "2000-12-17",
      "position": "DF",
      "nationality": "France"
@@ -1302,7 +1302,7 @@
      "teamName": "Everton",
      "dateOfBirth": "1987-06-20",
      "position": "GK",
-     "nationality": "Bosnia &amp; Herzegovina"
+     "nationality": "Bosnia & Herzegovina"
     },
     {
      "id": 146,
@@ -2073,7 +2073,7 @@
      "id": 231,
      "name": "Adrián",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1987-01-03",
      "position": "GK",
      "nationality": "Spain"
@@ -2082,7 +2082,7 @@
      "id": 232,
      "name": "Alex Oxlade-Chamberlain",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1993-08-15",
      "position": "MF",
      "nationality": "England"
@@ -2091,7 +2091,7 @@
      "id": 233,
      "name": "Alisson",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1992-10-02",
      "position": "GK",
      "nationality": "Brazil"
@@ -2100,7 +2100,7 @@
      "id": 234,
      "name": "Andrew Robertson",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1994-03-11",
      "position": "DF",
      "nationality": "Scotland"
@@ -2109,7 +2109,7 @@
      "id": 235,
      "name": "Arthur",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1996-08-12",
      "position": "MF",
      "nationality": "Brazil"
@@ -2118,7 +2118,7 @@
      "id": 236,
      "name": "Curtis Jones",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "2001-01-30",
      "position": "MF",
      "nationality": "England"
@@ -2127,7 +2127,7 @@
      "id": 237,
      "name": "Darwin Núñez",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1999-06-24",
      "position": "FW",
      "nationality": "Uruguay"
@@ -2136,7 +2136,7 @@
      "id": 238,
      "name": "Diogo Jota",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1996-12-04",
      "position": "FW",
      "nationality": "Portugal"
@@ -2145,7 +2145,7 @@
      "id": 239,
      "name": "Fabinho",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1993-10-23",
      "position": "MF",
      "nationality": "Brazil"
@@ -2154,7 +2154,7 @@
      "id": 240,
      "name": "Fabio Carvalho",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "2002-08-30",
      "position": "FW",
      "nationality": "Portugal"
@@ -2163,7 +2163,7 @@
      "id": 241,
      "name": "Harvey Elliott",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "2003-04-04",
      "position": "MF",
      "nationality": "England"
@@ -2172,7 +2172,7 @@
      "id": 242,
      "name": "Ibrahima Konaté",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1999-05-25",
      "position": "DF",
      "nationality": "France"
@@ -2181,7 +2181,7 @@
      "id": 243,
      "name": "James Milner",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1986-01-04",
      "position": "MF",
      "nationality": "England"
@@ -2190,7 +2190,7 @@
      "id": 244,
      "name": "Joe Gomez",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1997-05-23",
      "position": "DF",
      "nationality": "England"
@@ -2199,7 +2199,7 @@
      "id": 245,
      "name": "Joel Matip",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1991-08-08",
      "position": "DF",
      "nationality": "Cameroon"
@@ -2208,7 +2208,7 @@
      "id": 246,
      "name": "Jordan Henderson",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1990-06-17",
      "position": "MF",
      "nationality": "England"
@@ -2217,7 +2217,7 @@
      "id": 247,
      "name": "Kostas Tsimikas",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1996-05-12",
      "position": "DF",
      "nationality": "Greece"
@@ -2226,7 +2226,7 @@
      "id": 248,
      "name": "Luis Díaz",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1997-01-13",
      "position": "FW",
      "nationality": "Colombia"
@@ -2235,7 +2235,7 @@
      "id": 249,
      "name": "Mohamed Salah",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1992-06-15",
      "position": "FW",
      "nationality": "Egypt"
@@ -2244,7 +2244,7 @@
      "id": 250,
      "name": "Naby Keïta",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1995-02-10",
      "position": "MF",
      "nationality": "Guinea"
@@ -2253,7 +2253,7 @@
      "id": 251,
      "name": "Roberto Firmino",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1991-10-02",
      "position": "FW",
      "nationality": "Brazil"
@@ -2262,7 +2262,7 @@
      "id": 252,
      "name": "Thiago",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1991-04-11",
      "position": "MF",
      "nationality": "Spain"
@@ -2271,7 +2271,7 @@
      "id": 253,
      "name": "Trent Alexander-Arnold",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1998-10-07",
      "position": "DF",
      "nationality": "England"
@@ -2280,7 +2280,7 @@
      "id": 254,
      "name": "Virgil van Dijk",
      "teamId": 40,
-     "teamName": "Liverpool FC",
+     "teamName": "Liverpool",
      "dateOfBirth": "1991-07-08",
      "position": "DF",
      "nationality": "Netherlands"
@@ -3099,7 +3099,7 @@
      "id": 345,
      "name": "Adam Armstrong",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1997-02-10",
      "position": "FW",
      "nationality": "England"
@@ -3108,7 +3108,7 @@
      "id": 346,
      "name": "Ainsley Maitland-Niles",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1997-08-29",
      "position": "MF",
      "nationality": "England"
@@ -3117,7 +3117,7 @@
      "id": 347,
      "name": "Alex McCarthy",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1989-12-03",
      "position": "GK",
      "nationality": "England"
@@ -3126,7 +3126,7 @@
      "id": 348,
      "name": "Armel Bella-Kotchap",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "2001-12-11",
      "position": "DF",
      "nationality": "Germany"
@@ -3135,7 +3135,7 @@
      "id": 349,
      "name": "Che Adams",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1996-07-13",
      "position": "FW",
      "nationality": "Scotland"
@@ -3144,7 +3144,7 @@
      "id": 350,
      "name": "Ibrahima Diallo",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1999-03-08",
      "position": "MF",
      "nationality": "France"
@@ -3153,7 +3153,7 @@
      "id": 351,
      "name": "James Ward-Prowse",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1994-11-01",
      "position": "MF",
      "nationality": "England"
@@ -3162,7 +3162,7 @@
      "id": 352,
      "name": "Kyle Walker-Peters",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1997-04-13",
      "position": "DF",
      "nationality": "England"
@@ -3171,7 +3171,7 @@
      "id": 353,
      "name": "Mohamed Elyounoussi",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1994-08-04",
      "position": "FW",
      "nationality": "Norway"
@@ -3180,7 +3180,7 @@
      "id": 354,
      "name": "Mohammed Salisu",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1999-04-17",
      "position": "DF",
      "nationality": "Ghana"
@@ -3189,7 +3189,7 @@
      "id": 355,
      "name": "Moussa Djenepo",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1998-06-15",
      "position": "MF",
      "nationality": "Mali"
@@ -3198,7 +3198,7 @@
      "id": 356,
      "name": "Romain Perraud",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1997-09-22",
      "position": "DF",
      "nationality": "France"
@@ -3207,7 +3207,7 @@
      "id": 357,
      "name": "Stuart Armstrong",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1992-03-30",
      "position": "MF",
      "nationality": "Scotland"
@@ -3216,7 +3216,7 @@
      "id": 358,
      "name": "Theo Walcott",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "1989-03-16",
      "position": "MF",
      "nationality": "England"
@@ -3225,7 +3225,7 @@
      "id": 359,
      "name": "Tino Livramento",
      "teamId": 41,
-     "teamName": "Southampton FC",
+     "teamName": "Southampton",
      "dateOfBirth": "2002-11-12",
      "position": "DF",
      "nationality": "England"
@@ -3585,7 +3585,7 @@
      "id": 399,
      "name": "Adama Traoré",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1996-01-25",
      "position": "FW",
      "nationality": "Spain"
@@ -3594,7 +3594,7 @@
      "id": 400,
      "name": "Chiquinho",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "2000-02-05",
      "position": "FW",
      "nationality": "Portugal"
@@ -3603,7 +3603,7 @@
      "id": 401,
      "name": "Daniel Podence",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1995-10-21",
      "position": "FW",
      "nationality": "Portugal"
@@ -3612,7 +3612,7 @@
      "id": 402,
      "name": "Diego Costa",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1988-10-07",
      "position": "FW",
      "nationality": "Spain"
@@ -3621,7 +3621,7 @@
      "id": 403,
      "name": "Gonçalo Guedes",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1996-11-29",
      "position": "FW",
      "nationality": "Portugal"
@@ -3630,7 +3630,7 @@
      "id": 404,
      "name": "Hwang Hee-Chan",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1996-01-26",
      "position": "FW",
      "nationality": "South Korea"
@@ -3639,7 +3639,7 @@
      "id": 405,
      "name": "João Moutinho",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1986-09-08",
      "position": "MF",
      "nationality": "Portugal"
@@ -3648,7 +3648,7 @@
      "id": 406,
      "name": "Jonny",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1994-03-03",
      "position": "DF",
      "nationality": "Spain"
@@ -3657,7 +3657,7 @@
      "id": 407,
      "name": "José Sá",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1993-01-17",
      "position": "GK",
      "nationality": "Portugal"
@@ -3666,7 +3666,7 @@
      "id": 408,
      "name": "Matheus Nunes",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1998-08-27",
      "position": "MF",
      "nationality": "Portugal"
@@ -3675,7 +3675,7 @@
      "id": 409,
      "name": "Maximilian Kilman",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1997-05-23",
      "position": "DF",
      "nationality": "England"
@@ -3684,7 +3684,7 @@
      "id": 410,
      "name": "Nathan Collins",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "2001-04-30",
      "position": "DF",
      "nationality": "Ireland"
@@ -3693,7 +3693,7 @@
      "id": 411,
      "name": "Nélson Semedo",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1993-11-16",
      "position": "DF",
      "nationality": "Portugal"
@@ -3702,7 +3702,7 @@
      "id": 412,
      "name": "Pedro Neto",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "2000-03-09",
      "position": "FW",
      "nationality": "Portugal"
@@ -3711,7 +3711,7 @@
      "id": 413,
      "name": "Raúl Jiménez",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1991-05-05",
      "position": "FW",
      "nationality": "Mexico"
@@ -3720,7 +3720,7 @@
      "id": 414,
      "name": "Rayan Aït-Nouri",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "2001-06-06",
      "position": "DF",
      "nationality": "France"
@@ -3729,7 +3729,7 @@
      "id": 415,
      "name": "Rúben Neves",
      "teamId": 39,
-     "teamName": "Wolverhampton",
+     "teamName": "Wolves",
      "dateOfBirth": "1997-03-13",
      "position": "MF",
      "nationality": "Portugal"

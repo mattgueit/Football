@@ -1,6 +1,8 @@
 import React from 'react';
 import moment from 'moment';
 import { Player } from './PlayerGuess';
+import { PlayerGuessHistoryItemProperty } from './PlayerGuessHistoryItemProperty';
+import { ClubLogo } from '../Club/ClubLogo';
 
 interface PlayerGuessHistoryItemProps {
     key: number,
@@ -14,6 +16,9 @@ function calculateAge(birthday: string) {
     return Math.abs(ageDate.getUTCFullYear() - 1970);
 }
 
+function getClubIcon(clubName: string) {
+    return <ClubLogo clubName={ clubName } style={{ maxHeight: '60%' }} />
+}
 
 export function PlayerGuessHistoryItem(props: PlayerGuessHistoryItemProps) {
     return (
@@ -22,11 +27,11 @@ export function PlayerGuessHistoryItem(props: PlayerGuessHistoryItemProps) {
                 <div style={{ textAlign: 'center' }}>
                     <h3>{props.player.name}</h3>
                 </div>
-                <div style={{ display: 'flex', justifyContent: 'space-evenly' }}>
-                    <div style={{ flexGrow: 1 }}>{props.player.nationality}</div>
-                    <div style={{ flexGrow: 1 }}>{props.player.teamName}</div>
-                    <div style={{ flexGrow: 1 }}>{props.player.position}</div>
-                    <div style={{ flexGrow: 1 }}>{calculateAge(props.player.dateOfBirth)}</div>
+                <div style={{ display: 'flex', justifyContent: 'space-evenly', maxHeight: '100px' }}>
+                    <PlayerGuessHistoryItemProperty key='nationality' itemProperty={props.player.nationality} />
+                    <PlayerGuessHistoryItemProperty key='teamName' itemProperty={getClubIcon(props.player.teamName)} />
+                    <PlayerGuessHistoryItemProperty key='position' itemProperty={props.player.position} />
+                    <PlayerGuessHistoryItemProperty key='age' itemProperty={calculateAge(props.player.dateOfBirth).toString()} />
                 </div>
             </div>
         </React.Fragment>

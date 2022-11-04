@@ -37,11 +37,13 @@ namespace Football.Services
 
             var options = new JsonSerializerOptions 
             {
-                PropertyNameCaseInsensitive = true 
+                PropertyNameCaseInsensitive = true
             };
 
             var players = await JsonSerializer.DeserializeAsync<List<Player>>(openStream, options) 
                 ?? new List<Player>();
+
+            var brightonPlayers = players.Where(x => x.TeamId == 51).ToList();
 
             return players;
         }
