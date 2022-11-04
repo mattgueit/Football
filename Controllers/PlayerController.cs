@@ -1,5 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Net.WebSockets;
+﻿using Football.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Football.Controllers;
 
@@ -8,40 +8,26 @@ namespace Football.Controllers;
 public class PlayersController : ControllerBase
 {
     private readonly ILogger<PlayersController> _logger;
+    private readonly IPlayerService _playerService;
 
-    public PlayersController(ILogger<PlayersController> logger)
+    public PlayersController(ILogger<PlayersController> logger, IPlayerService playerService)
     {
         _logger = logger;
+        _playerService = playerService;
     }
 
     [HttpGet]
-    public IEnumerable<Player> Get()
+    public async Task<IActionResult> Get()
     {
-        return new List<Player>
+        try
         {
-            new Player { Id = 1, Name = "Aaron Ramsdale" },
-            new Player { Id = 2, Name = "Kieran Tierney" },
-            new Player { Id = 3, Name = "Ben White" },
-            new Player { Id = 4, Name = "Gabriel" },
-            new Player { Id = 5, Name = "William Saliba" },
-            new Player { Id = 6, Name = "Rob Holding" },
-            new Player { Id = 7, Name = "Cedric Soares" },
-            new Player { Id = 8, Name = "Takehiro Tomiyasu" },
-            new Player { Id = 9, Name = "Oleksandr Zinchenko" },
-            new Player { Id = 10, Name = "Thomas Partey" },
-            new Player { Id = 11, Name = "Bukayo Saka" },
-            new Player { Id = 12, Name = "Martin Odegaard" },
-            new Player { Id = 13, Name = "Emile Smith Rowe" },
-            new Player { Id = 14, Name = "Fabio Vieira" },
-            new Player { Id = 15, Name = "Granit Xhaka" },
-            new Player { Id = 16, Name = "Mohamed Elneny" },
-            new Player { Id = 17, Name = "Albert Lokonga" },
-            new Player { Id = 18, Name = "Gabriel Jesus" },
-            new Player { Id = 19, Name = "Gabriel Martinelli" },
-            new Player { Id = 20, Name = "Eddie Nketiah" },
-            new Player { Id = 21, Name = "Reiss Nelson" },
-            new Player { Id = 22, Name = "Marquinhos" },
-            new Player { Id = 23, Name = "Matt Turner" }
-        };
+            var players = await _playerService.GetPlayers();
+
+            return this.Ok(players);
+        }
+        catch (Exception ex)
+        {
+            return this.BadRequest(ex);
+        }
     }
 }

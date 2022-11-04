@@ -1,8 +1,11 @@
+using Football.Services;
+
 var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// Add services to the container
+builder.Services.AddScoped<IPlayerService, PlayerService>();
 
 builder.Services.AddControllersWithViews();
 

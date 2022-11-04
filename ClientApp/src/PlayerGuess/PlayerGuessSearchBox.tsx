@@ -14,9 +14,11 @@ interface PlayerGuessSearchBoxState {
     guessedPlayer?: Player
 }
 
-export class PlayerGuessSearchBox extends React.Component<any, PlayerGuessSearchBoxState> {
+export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxProps, PlayerGuessSearchBoxState> {
     constructor(props: Readonly<PlayerGuessSearchBoxProps>) {
         super(props);
+
+        console.log('initial receive props - searchbox', props.players);
 
         this.state = {
             players: props.players,
@@ -26,6 +28,10 @@ export class PlayerGuessSearchBox extends React.Component<any, PlayerGuessSearch
         }
     }
 
+    componentDidUpdate() {
+        //this.setState({ players });
+    }
+
     // this is when a key is hit
     handleInputChange(value: string) {
         this.setState({ input: value });
@@ -33,15 +39,16 @@ export class PlayerGuessSearchBox extends React.Component<any, PlayerGuessSearch
 
     // this is when a player is selected or cleared from the Autocomplete box
     handleChange(value: string | Player | null) {
-        if (value == null || ((value as string).length == 0)) {
+        if (value === null || ((value as string).length == 0)) {
+            console.log('handleChange', value);
             this.setState({ guessed: false });
             return;
         }
 
         if (this.isPlayer(value)) {
-            this.setState({ guessed: true, guessedPlayer: value }, () => {
-                console.log('callback player', this.state.guessedPlayer);
-                console.log('callback guessed', this.state.guessed);
+            this.setState({
+                guessed: true,
+                guessedPlayer: value
             });
         }
     }
@@ -52,7 +59,7 @@ export class PlayerGuessSearchBox extends React.Component<any, PlayerGuessSearch
 
     handleGuess() {
         if (this.state.guessed) {
-            this.props.onGuess(this.state.guessedPlayer);
+            this.props.onGuess((this.state.guessedPlayer as Player));
         }
     }
 
@@ -67,7 +74,7 @@ export class PlayerGuessSearchBox extends React.Component<any, PlayerGuessSearch
                         inputValue={this.state.input}
                         onChange={(_, value) => this.handleChange(value)}
                         onInputChange={(_, value) => this.handleInputChange(value)}
-                        options={this.state.players}
+                        options={this.props.players}
                         getOptionLabel={(option) => (option as Player).name}
                         renderInput={(params) => <TextField {...params} label="Player Name" />}
                         open={this.state.input.length > 2 && !this.state.guessed}
