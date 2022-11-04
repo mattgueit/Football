@@ -8,7 +8,6 @@ interface PlayerGuessSearchBoxProps {
 }
 
 interface PlayerGuessSearchBoxState {
-    players: Player[],
     input: string,
     guessed: boolean,
     guessedPlayer?: Player
@@ -21,23 +20,18 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
         console.log('initial receive props - searchbox', props.players);
 
         this.state = {
-            players: props.players,
             input: '',
             guessed: false,
             guessedPlayer: undefined
         }
     }
 
-    componentDidUpdate() {
-        //this.setState({ players });
-    }
-
-    // this is when a key is hit
+    // on every key press in search box
     handleInputChange(value: string) {
         this.setState({ input: value });
     }
 
-    // this is when a player is selected or cleared from the Autocomplete box
+    // on every player selection / removal in search box
     handleChange(value: string | Player | null) {
         if (value === null || ((value as string).length == 0)) {
             console.log('handleChange', value);
@@ -57,6 +51,7 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
         return (value as Player).name !== undefined;
     }
 
+    // lift state up
     handleGuess() {
         if (this.state.guessed) {
             this.props.onGuess((this.state.guessedPlayer as Player));

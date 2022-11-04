@@ -38,16 +38,18 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
     }
 
     registerGuess(player: Player) {
+        if (this.state.guessedPlayers.includes(player)) {
+            return;
+        }
+
         const guessedPlayers = this.state.guessedPlayers.slice();
 
-        // unshift == push at the first index.
         guessedPlayers.unshift(player); 
 
         this.setState({ guessedPlayers });
     }
 
     render() {
-        console.log('render playerGuess', this.state.players);
         return (
             <React.Fragment>
                 <h1 style={{ margin: 'auto', width: '10%', }}>Who am I?</h1>
@@ -62,7 +64,7 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
                 </div>
 
                 {this.state.guessedPlayers.length > 0 &&
-                    <div style={{ paddingTop: '50px' }}>
+                    <div>
                         <PlayerGuessHistory
                             players={this.state.guessedPlayers}
                         />
