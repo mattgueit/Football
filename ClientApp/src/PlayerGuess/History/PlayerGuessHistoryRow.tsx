@@ -1,10 +1,10 @@
 import React from 'react';
 import moment from 'moment';
-import { Player } from './PlayerGuess';
+import { Player } from '../PlayerGuess';
 import { PlayerGuessHistoryItemProperty } from './PlayerGuessHistoryItemProperty';
-import { ClubLogo } from '../Club/ClubLogo';
+import { ClubLogo } from '../../Club/ClubLogo';
 
-interface PlayerGuessHistoryItemProps {
+interface PlayerGuessHistoryRowProps {
     key: number,
     player: Player
 }
@@ -16,20 +16,29 @@ function calculateAge(birthday: string) {
     return Math.abs(ageDate.getUTCFullYear() - 1970);
 }
 
-function getClubIcon(clubName: string) {
-    return <ClubLogo clubName={ clubName } style={{ maxHeight: '60%' }} />
+function createClubIcon(clubName: string) {
+    const iconStyle = {
+        position: 'relative',
+        top: '10%',
+        left: '10%',
+        height: '80%',
+        width: '80%'
+    }
+
+    return <ClubLogo clubName={ clubName } style={ iconStyle } />
 }
 
-export function PlayerGuessHistoryItem(props: PlayerGuessHistoryItemProps) {
+
+export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
     return (
         <React.Fragment>
-            <div style={{ marginTop: '50px' }}>
+            <div style={{ marginBottom: '20px' }}>
                 <div style={{ textAlign: 'center' }}>
                     <h3>{props.player.name}</h3>
                 </div>
-                <div style={{ display: 'flex', justifyContent: 'space-evenly', maxHeight: '100px' }}>
+                <div style={{ display: 'flex', maxHeight: '100px' }}>
                     <PlayerGuessHistoryItemProperty key='nationality' itemProperty={props.player.nationality} />
-                    <PlayerGuessHistoryItemProperty key='teamName' itemProperty={getClubIcon(props.player.teamName)} />
+                    <PlayerGuessHistoryItemProperty key='teamName' itemProperty={createClubIcon(props.player.teamName)} />
                     <PlayerGuessHistoryItemProperty key='position' itemProperty={props.player.position} />
                     <PlayerGuessHistoryItemProperty key='age' itemProperty={calculateAge(props.player.dateOfBirth).toString()} />
                 </div>

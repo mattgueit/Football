@@ -1,6 +1,6 @@
 import React from 'react';
 import axios from 'axios';
-import { PlayerGuessHistoryTable } from './PlayerGuessHistoryTable';
+import { PlayerGuessHistoryTable } from './History/PlayerGuessHistoryTable';
 import { PlayerGuessSearchBox } from './PlayerGuessSearchBox';
 import QuestionMarkIcon from '@mui/icons-material/QuestionMark';
 import { CircularProgress } from '@mui/material';
@@ -68,9 +68,8 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
         
         return (
             <React.Fragment>
-                <div style={{ marginTop: '50px', marginBottom: '50px'}}>
-                    <h1 style={{ margin: 'auto', width: '10%', }}>Who am I?</h1>
-                    <div style={{ height: '40px' }}></div>
+                <div style={{ marginTop: '30px', marginBottom: '50px'}}>
+                    <h1 style={{ margin: 'auto', width: '10%', marginBottom: '20px'}}>Who am I?</h1>
                     <QuestionMarkIcon sx={{ display: 'block', width: '50%', margin: 'auto', fontSize: 100 }} />
                     <div style={{ height: '10px' }}></div>
                     <div>

@@ -8,8 +8,10 @@ interface PlayerGuessHistoryItemPropertyProps {
 export function PlayerGuessHistoryItemProperty(props: PlayerGuessHistoryItemPropertyProps) {
     return (
         <React.Fragment>
-            <div style={{ flexGrow: 1, maxHeight: '50%', justifyContent: 'center' }}>
-                {props.itemProperty}
+            <div style={{ flex: '1 1 25%', justifyContent: 'center' }}>
+                <div style={{ margin: 'auto', height: '80px', width: '80px', border: '1px solid', borderRadius: '10px'}}>
+                    {props.itemProperty}
+                </div>
             </div>
         </React.Fragment>
     );

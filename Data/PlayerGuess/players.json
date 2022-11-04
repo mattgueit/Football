@@ -5,7 +5,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1991-04-29",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -14,7 +14,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1995-01-04",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -23,7 +23,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1997-09-14",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -32,7 +32,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1994-01-27",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -41,7 +41,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1994-10-25",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Colombia"
     },
     {
@@ -50,7 +50,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1989-11-26",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -59,7 +59,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1992-08-08",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Wales"
     },
     {
@@ -68,7 +68,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1997-02-03",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -77,7 +77,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1997-05-10",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Argentina"
     },
     {
@@ -86,7 +86,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1999-03-22",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -104,7 +104,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1996-06-11",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Denmark"
     },
     {
@@ -113,7 +113,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1995-02-22",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -122,7 +122,7 @@
      "teamId": 35,
      "teamName": "AFC Bournemouth",
      "dateOfBirth": "1992-10-10",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -140,7 +140,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1999-10-22",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -149,7 +149,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1997-10-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -158,7 +158,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2001-09-05",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -167,7 +167,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1991-08-31",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Portugal"
     },
     {
@@ -176,7 +176,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1999-05-30",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -185,7 +185,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2000-07-28",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -194,7 +194,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2007-03-21",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -203,7 +203,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2000-05-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     },
     {
@@ -212,7 +212,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1997-12-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Brazil"
     },
     {
@@ -221,7 +221,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1997-04-03",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -230,7 +230,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2001-06-18",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -239,7 +239,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1992-09-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Switzerland"
     },
     {
@@ -248,7 +248,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1997-06-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -257,7 +257,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2003-04-07",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -266,7 +266,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1998-12-17",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Norway"
     },
     {
@@ -275,7 +275,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2000-10-05",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -293,7 +293,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1992-07-11",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Egypt"
     },
     {
@@ -302,7 +302,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1996-12-15",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ukraine"
     },
     {
@@ -311,7 +311,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1999-12-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -320,7 +320,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1995-09-20",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -329,7 +329,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1998-11-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Japan"
     },
     {
@@ -338,7 +338,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "1993-06-13",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Ghana"
     },
     {
@@ -347,7 +347,7 @@
      "teamId": 42,
      "teamName": "Arsenal",
      "dateOfBirth": "2001-03-24",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -356,7 +356,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1985-07-09",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -365,7 +365,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1999-11-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "France"
     },
     {
@@ -374,7 +374,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1995-01-20",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -383,7 +383,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1992-06-12",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -392,7 +392,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1992-07-23",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -401,7 +401,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1993-03-15",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Brazil"
     },
     {
@@ -410,7 +410,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1998-05-09",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -419,7 +419,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1996-12-25",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Argentina"
     },
     {
@@ -437,7 +437,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1997-10-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -446,7 +446,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "2001-05-28",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -455,7 +455,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1996-04-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Poland"
     },
     {
@@ -464,7 +464,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1994-10-18",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -473,7 +473,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1995-04-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -482,7 +482,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1997-08-09",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Jamaica"
     },
     {
@@ -491,7 +491,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1993-07-20",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -500,7 +500,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1994-04-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Sweden"
     },
     {
@@ -509,7 +509,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1994-01-19",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Zimbabwe"
     },
     {
@@ -518,7 +518,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1997-08-07",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Poland"
     },
     {
@@ -527,7 +527,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1995-12-30",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -536,7 +536,7 @@
      "teamId": 66,
      "teamName": "Aston Villa",
      "dateOfBirth": "1993-03-13",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -545,7 +545,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "2002-06-10",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -554,7 +554,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1989-09-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -563,7 +563,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1999-08-07",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Cameroon"
     },
     {
@@ -572,7 +572,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1994-03-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Denmark"
     },
     {
@@ -590,7 +590,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1993-05-29",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Jamaica"
     },
     {
@@ -599,7 +599,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1998-01-01",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Nigeria"
     },
     {
@@ -608,7 +608,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1996-03-16",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -617,7 +617,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "2001-02-22",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -626,7 +626,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1998-04-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Norway"
     },
     {
@@ -635,7 +635,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1996-01-01",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Denmark"
     },
     {
@@ -644,7 +644,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "2000-07-03",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Denmark"
     },
     {
@@ -653,7 +653,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1991-02-13",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Sweden"
     },
     {
@@ -662,7 +662,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1997-07-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -680,7 +680,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1998-05-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Germany"
     },
     {
@@ -689,7 +689,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1996-09-03",
-     "position": "MF",
+     "position": "MID",
      "nationality": "DR Congo"
     },
     {
@@ -698,7 +698,7 @@
      "teamId": 55,
      "teamName": "Brentford",
      "dateOfBirth": "1990-04-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Denmark"
     },
     {
@@ -707,7 +707,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1988-05-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -716,7 +716,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1995-01-04",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -725,7 +725,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1998-12-24",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Argentina"
     },
     {
@@ -734,7 +734,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "2001-06-11",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -743,7 +743,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1990-11-26",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -761,7 +761,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1992-01-15",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -770,7 +770,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1997-05-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Japan"
     },
     {
@@ -779,7 +779,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1994-12-04",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -788,7 +788,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1991-11-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -797,7 +797,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "2001-11-02",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Ecuador"
     },
     {
@@ -806,7 +806,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1991-06-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Germany"
     },
     {
@@ -815,7 +815,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1998-01-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ecuador"
     },
     {
@@ -833,7 +833,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "1994-07-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -842,7 +842,7 @@
      "teamId": 51,
      "teamName": "Brighton Hove Albion",
      "dateOfBirth": "2000-09-30",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ghana"
     },
     {
@@ -851,7 +851,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "2001-09-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Albania"
     },
     {
@@ -860,7 +860,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1996-12-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -869,7 +869,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "2003-10-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -878,7 +878,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1989-08-28",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Spain"
     },
     {
@@ -887,7 +887,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1998-09-18",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "United States"
     },
     {
@@ -896,7 +896,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "2000-02-06",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -905,7 +905,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1996-11-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Switzerland"
     },
     {
@@ -923,7 +923,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1993-03-19",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Morocco"
     },
     {
@@ -932,7 +932,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1991-12-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Italy"
     },
     {
@@ -941,7 +941,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1999-06-11",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Germany"
     },
     {
@@ -950,7 +950,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1991-06-20",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Senegal"
     },
     {
@@ -968,7 +968,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1998-07-22",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Spain"
     },
     {
@@ -977,7 +977,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1999-01-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -986,7 +986,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1994-05-06",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Croatia"
     },
     {
@@ -995,7 +995,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1991-03-29",
-     "position": "MF",
+     "position": "MID",
      "nationality": "France"
     },
     {
@@ -1004,7 +1004,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "2003-10-29",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Jamaica"
     },
     {
@@ -1013,7 +1013,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1989-06-18",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Gabon"
     },
     {
@@ -1022,7 +1022,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1994-12-08",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1031,7 +1031,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1999-12-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1040,7 +1040,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1996-01-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1049,7 +1049,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1984-09-22",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Brazil"
     },
     {
@@ -1058,7 +1058,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "1999-07-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1067,7 +1067,7 @@
      "teamId": 49,
      "teamName": "Chelsea",
      "dateOfBirth": "2000-12-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -1076,7 +1076,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "2000-01-08",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Mali"
     },
     {
@@ -1085,7 +1085,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1998-06-29",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1103,7 +1103,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1987-10-07",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -1112,7 +1112,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1989-03-29",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1121,7 +1121,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1997-06-28",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "France"
     },
     {
@@ -1130,7 +1130,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1992-12-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Ghana"
     },
     {
@@ -1139,7 +1139,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1996-05-31",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Denmark"
     },
     {
@@ -1148,7 +1148,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1989-10-29",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1157,7 +1157,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1991-09-11",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Ghana"
     },
     {
@@ -1166,7 +1166,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1991-04-07",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Serbia"
     },
     {
@@ -1175,7 +1175,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "2000-07-13",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1184,7 +1184,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "2001-12-12",
-     "position": "MF",
+     "position": "MID",
      "nationality": "France"
     },
     {
@@ -1193,7 +1193,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1991-04-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1202,7 +1202,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1998-01-16",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "France"
     },
     {
@@ -1220,7 +1220,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1999-09-01",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1238,7 +1238,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1992-11-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Cote D’Ivoire"
     },
     {
@@ -1247,7 +1247,7 @@
      "teamId": 52,
      "teamName": "Crystal Palace",
      "dateOfBirth": "1995-04-17",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1256,7 +1256,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1993-01-01",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Mali"
     },
     {
@@ -1265,7 +1265,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1996-05-03",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Nigeria"
     },
     {
@@ -1274,7 +1274,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "2001-08-16",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -1283,7 +1283,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1991-07-16",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1292,7 +1292,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "2001-02-24",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1310,7 +1310,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1998-01-15",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1319,7 +1319,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1993-02-25",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1328,7 +1328,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1996-06-28",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1337,7 +1337,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1997-03-16",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1346,7 +1346,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1999-11-22",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1355,7 +1355,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1989-09-26",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Senegal"
     },
     {
@@ -1364,7 +1364,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1992-11-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1382,7 +1382,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1996-10-22",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1391,7 +1391,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1993-01-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1400,7 +1400,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "2001-10-16",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -1409,7 +1409,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1996-08-14",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "France"
     },
     {
@@ -1418,7 +1418,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1989-09-16",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Venezuela"
     },
     {
@@ -1427,7 +1427,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1988-10-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ireland"
     },
     {
@@ -1436,7 +1436,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1998-06-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1445,7 +1445,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1999-05-29",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ukraine"
     },
     {
@@ -1454,7 +1454,7 @@
      "teamId": 45,
      "teamName": "Everton",
      "dateOfBirth": "1994-09-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Colombia"
     },
     {
@@ -1463,7 +1463,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1994-09-16",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Serbia"
     },
     {
@@ -1472,7 +1472,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1996-01-01",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -1490,7 +1490,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1993-02-02",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Jamaica"
     },
     {
@@ -1499,7 +1499,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1997-11-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Wales"
     },
     {
@@ -1508,7 +1508,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1995-01-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1517,7 +1517,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1997-01-09",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -1526,7 +1526,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1995-07-09",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     },
     {
@@ -1535,7 +1535,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1995-10-09",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -1544,7 +1544,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1995-04-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Switzerland"
     },
     {
@@ -1553,7 +1553,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1992-09-04",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -1571,7 +1571,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1994-12-12",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1580,7 +1580,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1992-03-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "DR Congo"
     },
     {
@@ -1589,7 +1589,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1992-01-01",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ireland"
     },
     {
@@ -1598,7 +1598,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1991-01-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -1607,7 +1607,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1997-09-24",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1616,7 +1616,7 @@
      "teamId": 36,
      "teamName": "Fulham",
      "dateOfBirth": "1988-08-09",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -1625,7 +1625,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1991-10-08",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1634,7 +1634,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "2000-10-22",
-     "position": "MF",
+     "position": "MID",
      "nationality": "United States"
     },
     {
@@ -1643,7 +1643,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "2001-10-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Netherlands"
     },
     {
@@ -1652,7 +1652,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1993-08-16",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Spain"
     },
     {
@@ -1670,7 +1670,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1996-11-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1679,7 +1679,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "2002-05-04",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1688,7 +1688,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1996-08-22",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Spain"
     },
     {
@@ -1706,7 +1706,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1991-08-30",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -1715,7 +1715,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1999-06-17",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Colombia"
     },
     {
@@ -1724,7 +1724,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1991-08-25",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1733,7 +1733,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1996-11-26",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Spain"
     },
     {
@@ -1742,7 +1742,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1990-06-13",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Poland"
     },
     {
@@ -1751,7 +1751,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1999-08-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -1760,7 +1760,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1993-09-05",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1769,7 +1769,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1997-07-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Denmark"
     },
     {
@@ -1778,7 +1778,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1996-07-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Germany"
     },
     {
@@ -1787,7 +1787,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1991-03-06",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Spain"
     },
     {
@@ -1796,7 +1796,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1991-04-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Northern Ireland"
     },
     {
@@ -1805,7 +1805,7 @@
      "teamId": 63,
      "teamName": "Leeds United",
      "dateOfBirth": "1999-02-14",
-     "position": "MF",
+     "position": "MID",
      "nationality": "United States"
     },
     {
@@ -1823,7 +1823,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1993-07-29",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Spain"
     },
     {
@@ -1832,7 +1832,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1999-02-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "France"
     },
     {
@@ -1841,7 +1841,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1996-05-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Turkey"
     },
     {
@@ -1850,7 +1850,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1994-12-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ghana"
     },
     {
@@ -1877,7 +1877,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1994-05-14",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -1886,7 +1886,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1997-12-09",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1895,7 +1895,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1998-02-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1904,7 +1904,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1996-11-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1913,7 +1913,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1987-01-11",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -1922,7 +1922,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1992-08-03",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Denmark"
     },
     {
@@ -1931,7 +1931,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "2003-12-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1940,7 +1940,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1988-01-03",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Northern Ireland"
     },
     {
@@ -1949,7 +1949,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1996-10-03",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Nigeria"
     },
     {
@@ -1958,7 +1958,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1998-09-06",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1967,7 +1967,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "2000-11-06",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1976,7 +1976,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "2001-06-10",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -1985,7 +1985,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1989-11-18",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -1994,7 +1994,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1992-06-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Senegal"
     },
     {
@@ -2003,7 +2003,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1998-10-09",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Zambia"
     },
     {
@@ -2012,7 +2012,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1993-10-06",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Portugal"
     },
     {
@@ -2021,7 +2021,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1989-08-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2030,7 +2030,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "2004-03-12",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2039,7 +2039,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1995-12-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Belgium"
     },
     {
@@ -2048,7 +2048,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1996-12-16",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Nigeria"
     },
     {
@@ -2057,7 +2057,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1998-04-03",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Belgium"
     },
     {
@@ -2066,7 +2066,7 @@
      "teamId": 46,
      "teamName": "Leicester City",
      "dateOfBirth": "1997-05-07",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -2084,7 +2084,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1993-08-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2102,7 +2102,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1994-03-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -2111,7 +2111,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1996-08-12",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -2120,7 +2120,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "2001-01-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2129,7 +2129,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1999-06-24",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Uruguay"
     },
     {
@@ -2138,7 +2138,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1996-12-04",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -2147,7 +2147,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1993-10-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -2156,7 +2156,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "2002-08-30",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -2165,7 +2165,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "2003-04-04",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2174,7 +2174,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1999-05-25",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -2183,7 +2183,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1986-01-04",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2192,7 +2192,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1997-05-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2201,7 +2201,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1991-08-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Cameroon"
     },
     {
@@ -2210,7 +2210,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1990-06-17",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2219,7 +2219,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1996-05-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Greece"
     },
     {
@@ -2228,7 +2228,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1997-01-13",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Colombia"
     },
     {
@@ -2237,7 +2237,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1992-06-15",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Egypt"
     },
     {
@@ -2246,7 +2246,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1995-02-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Guinea"
     },
     {
@@ -2255,7 +2255,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1991-10-02",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -2264,7 +2264,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1991-04-11",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Spain"
     },
     {
@@ -2273,7 +2273,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1998-10-07",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2282,7 +2282,7 @@
      "teamId": 40,
      "teamName": "Liverpool",
      "dateOfBirth": "1991-07-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -2291,7 +2291,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1994-05-27",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Spain"
     },
     {
@@ -2300,7 +2300,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1994-08-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     },
     {
@@ -2309,7 +2309,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "2002-05-06",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2327,7 +2327,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "2000-07-21",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Norway"
     },
     {
@@ -2336,7 +2336,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1990-10-24",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Germany"
     },
     {
@@ -2345,7 +2345,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1995-09-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2354,7 +2354,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1994-05-27",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Portugal"
     },
     {
@@ -2363,7 +2363,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1994-05-28",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2372,7 +2372,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "2000-01-31",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Argentina"
     },
     {
@@ -2381,7 +2381,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1995-12-02",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2390,7 +2390,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1991-06-28",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -2399,7 +2399,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1990-05-28",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2408,7 +2408,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1995-07-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Switzerland"
     },
     {
@@ -2417,7 +2417,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1995-02-18",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -2426,7 +2426,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "2000-05-28",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2435,7 +2435,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1991-02-21",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Algeria"
     },
     {
@@ -2444,7 +2444,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1996-06-22",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Spain"
     },
     {
@@ -2453,7 +2453,7 @@
      "teamId": 50,
      "teamName": "Manchester City",
      "dateOfBirth": "1997-05-14",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Portugal"
     },
     {
@@ -2462,7 +2462,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1997-11-26",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2471,7 +2471,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "2002-04-27",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Sweden"
     },
     {
@@ -2480,7 +2480,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1995-12-05",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "France"
     },
     {
@@ -2489,7 +2489,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "2000-02-24",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -2498,7 +2498,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1997-11-14",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2507,7 +2507,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1994-09-08",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     },
     {
@@ -2516,7 +2516,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1992-02-23",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -2525,7 +2525,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1992-02-14",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Denmark"
     },
     {
@@ -2534,7 +2534,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1985-02-05",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -2552,7 +2552,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1999-03-18",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Portugal"
     },
     {
@@ -2561,7 +2561,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1997-04-18",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Netherlands"
     },
     {
@@ -2570,7 +2570,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1993-03-05",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -2579,7 +2579,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1993-03-05",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2588,7 +2588,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "2000-03-25",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -2597,7 +2597,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1998-01-18",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Argentina"
     },
     {
@@ -2606,7 +2606,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1995-07-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2615,7 +2615,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1997-10-31",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -2633,7 +2633,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1992-02-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2642,7 +2642,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1993-04-25",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -2651,7 +2651,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1996-12-08",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -2660,7 +2660,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1999-08-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -2669,7 +2669,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "1994-07-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Sweden"
     },
     {
@@ -2678,7 +2678,7 @@
      "teamId": 33,
      "teamName": "Manchester United",
      "dateOfBirth": "2003-04-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Iraq"
     },
     {
@@ -2687,7 +2687,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1999-09-21",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Sweden"
     },
     {
@@ -2696,7 +2696,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1997-03-12",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "France"
     },
     {
@@ -2705,7 +2705,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1997-11-16",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -2714,7 +2714,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1992-02-27",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -2723,7 +2723,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1991-12-07",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "New Zealand"
     },
     {
@@ -2732,7 +2732,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1992-05-09",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2741,7 +2741,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "2002-11-06",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -2750,7 +2750,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1994-08-02",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Sweden"
     },
     {
@@ -2759,7 +2759,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1991-12-20",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Switzerland"
     },
     {
@@ -2768,7 +2768,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1995-02-24",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2777,7 +2777,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1993-11-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2786,7 +2786,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1998-01-25",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Northern Ireland"
     },
     {
@@ -2795,7 +2795,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1999-08-20",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2804,7 +2804,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1996-08-14",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -2813,7 +2813,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1992-02-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2831,7 +2831,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1990-09-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2849,7 +2849,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1989-09-10",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -2858,7 +2858,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1995-09-18",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2867,7 +2867,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1994-02-10",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Paraguay"
     },
     {
@@ -2885,7 +2885,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1991-09-26",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Wales"
     },
     {
@@ -2894,7 +2894,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1994-02-24",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -2903,7 +2903,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "1997-10-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2912,7 +2912,7 @@
      "teamId": 34,
      "teamName": "Newcastle United",
      "dateOfBirth": "2000-01-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Netherlands"
     },
     {
@@ -2921,7 +2921,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "2001-05-23",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Wales"
     },
     {
@@ -2930,7 +2930,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1989-12-21",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Senegal"
     },
     {
@@ -2948,7 +2948,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1997-11-15",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Nigeria"
     },
     {
@@ -2957,7 +2957,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1995-08-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -2966,7 +2966,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1992-12-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2975,7 +2975,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "2000-01-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -2984,7 +2984,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1996-03-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Senegal"
     },
     {
@@ -2993,7 +2993,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "2001-04-13",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Wales"
     },
     {
@@ -3002,7 +3002,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1998-03-18",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Belgium"
     },
     {
@@ -3011,7 +3011,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1992-04-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Switzerland"
     },
     {
@@ -3020,7 +3020,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1998-04-08",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Brazil"
     },
     {
@@ -3029,7 +3029,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1997-11-21",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -3038,7 +3038,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1998-07-28",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -3047,7 +3047,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1996-11-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Scotland"
     },
     {
@@ -3056,7 +3056,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1992-12-24",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Cote D’Ivoire"
     },
     {
@@ -3065,7 +3065,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1991-04-19",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3074,7 +3074,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1997-08-12",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Nigeria"
     },
     {
@@ -3092,7 +3092,7 @@
      "teamId": 65,
      "teamName": "Nottingham Forest",
      "dateOfBirth": "1991-02-03",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Cote D’Ivoire"
     },
     {
@@ -3101,7 +3101,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1997-02-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -3110,7 +3110,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1997-08-29",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -3128,7 +3128,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "2001-12-11",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Germany"
     },
     {
@@ -3137,7 +3137,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1996-07-13",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Scotland"
     },
     {
@@ -3146,7 +3146,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1999-03-08",
-     "position": "MF",
+     "position": "MID",
      "nationality": "France"
     },
     {
@@ -3155,7 +3155,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1994-11-01",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -3164,7 +3164,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1997-04-13",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3173,7 +3173,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1994-08-04",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Norway"
     },
     {
@@ -3182,7 +3182,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1999-04-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ghana"
     },
     {
@@ -3191,7 +3191,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1998-06-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Mali"
     },
     {
@@ -3200,7 +3200,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1997-09-22",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -3209,7 +3209,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1992-03-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Scotland"
     },
     {
@@ -3218,7 +3218,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "1989-03-16",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -3227,7 +3227,7 @@
      "teamId": 41,
      "teamName": "Southampton",
      "dateOfBirth": "2002-11-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3236,7 +3236,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1993-04-24",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Wales"
     },
     {
@@ -3245,7 +3245,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1995-06-17",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -3254,7 +3254,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1998-04-27",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Argentina"
     },
     {
@@ -3263,7 +3263,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1996-06-12",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Colombia"
     },
     {
@@ -3272,7 +3272,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "2000-04-25",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Sweden"
     },
     {
@@ -3281,7 +3281,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1999-01-14",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Brazil"
     },
     {
@@ -3290,7 +3290,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1994-01-15",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3308,7 +3308,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1993-07-28",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -3317,7 +3317,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1992-07-08",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "South Korea"
     },
     {
@@ -3335,7 +3335,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1989-02-02",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Croatia"
     },
     {
@@ -3344,7 +3344,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1999-03-31",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3353,7 +3353,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1992-08-13",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -3362,7 +3362,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1992-01-16",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ireland"
     },
     {
@@ -3371,7 +3371,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1995-08-05",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Denmark"
     },
     {
@@ -3380,7 +3380,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1997-05-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Brazil"
     },
     {
@@ -3389,7 +3389,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1997-06-25",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Uruguay"
     },
     {
@@ -3398,7 +3398,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "2000-05-18",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -3407,7 +3407,7 @@
      "teamId": 47,
      "teamName": "Tottenham Hotspur",
      "dateOfBirth": "1996-08-30",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Mali"
     },
     {
@@ -3416,7 +3416,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1989-12-15",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3434,7 +3434,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1988-05-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Italy"
     },
     {
@@ -3443,7 +3443,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "2000-01-24",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3452,7 +3452,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1990-05-06",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3461,7 +3461,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1999-01-14",
-     "position": "MF",
+     "position": "MID",
      "nationality": "England"
     },
     {
@@ -3470,7 +3470,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1999-01-01",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Italy"
     },
     {
@@ -3479,7 +3479,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1996-12-20",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "England"
     },
     {
@@ -3488,7 +3488,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1994-10-27",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -3497,7 +3497,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1997-08-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Brazil"
     },
     {
@@ -3515,7 +3515,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1993-02-15",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Argentina"
     },
     {
@@ -3524,7 +3524,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1996-09-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Cote D’Ivoire"
     },
     {
@@ -3533,7 +3533,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1990-03-28",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Jamaica"
     },
     {
@@ -3542,7 +3542,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1996-02-22",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Spain"
     },
     {
@@ -3551,7 +3551,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1995-08-10",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Algeria"
     },
     {
@@ -3560,7 +3560,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1996-09-21",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Germany"
     },
     {
@@ -3569,7 +3569,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1995-02-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Czech Republic"
     },
     {
@@ -3578,7 +3578,7 @@
      "teamId": 48,
      "teamName": "West Ham United",
      "dateOfBirth": "1992-08-22",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Czech Republic"
     },
     {
@@ -3587,7 +3587,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1996-01-25",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Spain"
     },
     {
@@ -3596,7 +3596,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "2000-02-05",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -3605,7 +3605,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1995-10-21",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -3614,7 +3614,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1988-10-07",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Spain"
     },
     {
@@ -3623,7 +3623,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1996-11-29",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -3632,7 +3632,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1996-01-26",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "South Korea"
     },
     {
@@ -3641,7 +3641,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1986-09-08",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     },
     {
@@ -3650,7 +3650,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1994-03-03",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Spain"
     },
     {
@@ -3668,7 +3668,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1998-08-27",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     },
     {
@@ -3677,7 +3677,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1997-05-23",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "England"
     },
     {
@@ -3686,7 +3686,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "2001-04-30",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Ireland"
     },
     {
@@ -3695,7 +3695,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1993-11-16",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "Portugal"
     },
     {
@@ -3704,7 +3704,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "2000-03-09",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Portugal"
     },
     {
@@ -3713,7 +3713,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1991-05-05",
-     "position": "FW",
+     "position": "FWD",
      "nationality": "Mexico"
     },
     {
@@ -3722,7 +3722,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "2001-06-06",
-     "position": "DF",
+     "position": "DEF",
      "nationality": "France"
     },
     {
@@ -3731,7 +3731,7 @@
      "teamId": 39,
      "teamName": "Wolves",
      "dateOfBirth": "1997-03-13",
-     "position": "MF",
+     "position": "MID",
      "nationality": "Portugal"
     }
    ]

@@ -71,7 +71,17 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
                         onInputChange={(_, value) => this.handleInputChange(value)}
                         options={this.props.players}
                         getOptionLabel={(option) => (option as Player).name}
-                        renderInput={(params) => <TextField {...params} label="Player Name" />}
+                        renderInput={(params) => (
+                            <TextField
+                                {...params}
+                                label="Player Name"
+                                onKeyDown={(e) => {
+                                    if (e.code == "Enter" && this.state.guessed) {
+                                        this.handleGuess();
+                                    }
+                                }}
+                            />
+                        )}
                         open={this.state.input.length > 2 && !this.state.guessed}
                         sx={{ flex: 10, margin: '0 15px'}}
                     />

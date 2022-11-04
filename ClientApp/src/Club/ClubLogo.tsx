@@ -1,3 +1,4 @@
+import React from "react";
 import afcBournemouthIcon from "../assets/epl-club-logos/afcBournemouth.png";
 import arsenalIcon from "../assets/epl-club-logos/arsenal.png";
 import astonVillaIcon from "../assets/epl-club-logos/astonVilla.png";
@@ -28,7 +29,9 @@ interface ClubLogoProps {
 
 export function ClubLogo(props: ClubLogoProps) {
 	return (
-		<img src={resolveClubIcon(props.clubName)} style={props.style} alt="" />
+		<React.Fragment>
+			<img src={resolveClubIcon(props.clubName)} style={props.style} alt="" />
+		</React.Fragment>
 	)
 }
 
