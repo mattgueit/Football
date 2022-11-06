@@ -2,7 +2,7 @@ import React from 'react';
 import moment from 'moment';
 import { Player } from '../PlayerGuess';
 import { PlayerGuessHistoryItemProperty } from './PlayerGuessHistoryItemProperty';
-import { ClubLogo } from '../../Club/ClubLogo';
+import { ClubIcon } from '../../Icons/ClubIcon';
 
 interface PlayerGuessHistoryRowProps {
     key: number,
@@ -26,7 +26,7 @@ function createClubIcon(clubName: string) {
         width: '80%'
     }
 
-    return <ClubLogo clubName={ clubName } style={ iconStyle } />
+    return <ClubIcon clubName={ clubName } style={ iconStyle } />
 }
 
 function createLargeText(text: string) {
@@ -42,10 +42,10 @@ export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
 
     const targetAge = calculateAge(props.targetPlayer.dateOfBirth);
 
-    const nationalityIsCorrect = props.guessedPlayer.nationality == props.targetPlayer.nationality;
-    const clubIsCorrect = props.guessedPlayer.clubId == props.targetPlayer.clubId;
-    const positionIsCorrect = props.guessedPlayer.position == props.targetPlayer.position;
-    const ageIsCorrect = guessedAge == targetAge;
+    const nationalityIsCorrect = props.guessedPlayer.nationality === props.targetPlayer.nationality;
+    const clubIsCorrect = props.guessedPlayer.clubId === props.targetPlayer.clubId;
+    const positionIsCorrect = props.guessedPlayer.position === props.targetPlayer.position;
+    const ageIsCorrect = guessedAge === targetAge;
 
     return (
         <React.Fragment>
