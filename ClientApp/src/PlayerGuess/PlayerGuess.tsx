@@ -18,7 +18,8 @@ export type Player = {
 interface PlayerGuessState {
     loading: boolean,
     players: Player[],
-    guessedPlayers: Player[]
+    guessedPlayers: Player[],
+    targetPlayer?: Player
 }
 
 export class PlayerGuess extends React.Component<any, PlayerGuessState> {
@@ -28,7 +29,8 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
         this.state = {
             loading: true,
             players: [],
-            guessedPlayers: []
+            guessedPlayers: [],
+            targetPlayer: undefined
         }
     }
 
@@ -39,6 +41,7 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
                 this.setState(
                     {
                         players,
+                        targetPlayer: players[Math.floor(Math.random()*players.length)],
                         loading: false
                     }
                 );
@@ -65,6 +68,11 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
                 </div>
             )
         }
+
+        if (this.state.targetPlayer == undefined) {
+            // this shouldn't happen. maybe display an error popup to the user?
+            return;
+        }
         
         return (
             <React.Fragment>
@@ -82,7 +90,8 @@ export class PlayerGuess extends React.Component<any, PlayerGuessState> {
                     {this.state.guessedPlayers.length > 0 &&
                         <div>
                             <PlayerGuessHistoryTable
-                                players={this.state.guessedPlayers}
+                                guessedPlayers={this.state.guessedPlayers}
+                                targetPlayer={ this.state.targetPlayer }
                             />
                         </div>
                     }

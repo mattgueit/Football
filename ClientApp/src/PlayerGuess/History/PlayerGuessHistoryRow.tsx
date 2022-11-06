@@ -6,7 +6,8 @@ import { ClubLogo } from '../../Club/ClubLogo';
 
 interface PlayerGuessHistoryRowProps {
     key: number,
-    player: Player
+    guessedPlayer: Player,
+    targetPlayer: Player
 }
 
 function calculateAge(birthday: string) {
@@ -28,19 +29,35 @@ function createClubIcon(clubName: string) {
     return <ClubLogo clubName={ clubName } style={ iconStyle } />
 }
 
+function createLargeText(text: string) {
+    return <p style={{ fontSize: '22px', textAlign: 'center', verticalAlign: 'bottom'}}>{text}</p>
+}
+
 
 export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
+    const clubIcon = createClubIcon(props.guessedPlayer.teamName);
+    const positionLargeText = createLargeText(props.guessedPlayer.position);
+    const guessedAge = calculateAge(props.guessedPlayer.dateOfBirth);
+    const ageLargeText = createLargeText(guessedAge.toString());
+
+    const targetAge = calculateAge(props.targetPlayer.dateOfBirth);
+
+    const nationalityIsCorrect = props.guessedPlayer.nationality == props.targetPlayer.nationality;
+    const clubIsCorrect = props.guessedPlayer.teamId == props.targetPlayer.teamId;
+    const positionIsCorrect = props.guessedPlayer.position == props.targetPlayer.position;
+    const ageIsCorrect = guessedAge == targetAge;
+
     return (
         <React.Fragment>
             <div style={{ marginBottom: '20px' }}>
                 <div style={{ textAlign: 'center' }}>
-                    <h3>{props.player.name}</h3>
+                    <h3>{props.guessedPlayer.name}</h3>
                 </div>
                 <div style={{ display: 'flex', maxHeight: '100px' }}>
-                    <PlayerGuessHistoryItemProperty key='nationality' itemProperty={props.player.nationality} />
-                    <PlayerGuessHistoryItemProperty key='teamName' itemProperty={createClubIcon(props.player.teamName)} />
-                    <PlayerGuessHistoryItemProperty key='position' itemProperty={props.player.position} />
-                    <PlayerGuessHistoryItemProperty key='age' itemProperty={calculateAge(props.player.dateOfBirth).toString()} />
+                    <PlayerGuessHistoryItemProperty key='nationality' itemProperty={props.guessedPlayer.nationality} isCorrect={nationalityIsCorrect} />
+                    <PlayerGuessHistoryItemProperty key='club' itemProperty={clubIcon} isCorrect={clubIsCorrect} />
+                    <PlayerGuessHistoryItemProperty key='position' itemProperty={positionLargeText} isCorrect={positionIsCorrect} />
+                    <PlayerGuessHistoryItemProperty key='age' itemProperty={ageLargeText} isCorrect={ageIsCorrect} />
                 </div>
             </div>
         </React.Fragment>
