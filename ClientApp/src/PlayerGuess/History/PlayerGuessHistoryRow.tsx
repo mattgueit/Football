@@ -35,7 +35,7 @@ function createLargeText(text: string) {
 
 
 export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
-    const clubIcon = createClubIcon(props.guessedPlayer.teamName);
+    const clubIcon = createClubIcon(props.guessedPlayer.clubName);
     const positionLargeText = createLargeText(props.guessedPlayer.position);
     const guessedAge = calculateAge(props.guessedPlayer.dateOfBirth);
     const ageLargeText = createLargeText(guessedAge.toString());
@@ -43,7 +43,7 @@ export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
     const targetAge = calculateAge(props.targetPlayer.dateOfBirth);
 
     const nationalityIsCorrect = props.guessedPlayer.nationality == props.targetPlayer.nationality;
-    const clubIsCorrect = props.guessedPlayer.teamId == props.targetPlayer.teamId;
+    const clubIsCorrect = props.guessedPlayer.clubId == props.targetPlayer.clubId;
     const positionIsCorrect = props.guessedPlayer.position == props.targetPlayer.position;
     const ageIsCorrect = guessedAge == targetAge;
 

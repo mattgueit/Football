@@ -8,8 +8,8 @@ import { CircularProgress } from '@mui/material';
 export type Player = {
     id: number,
     name: string,
-    teamId: string,
-    teamName: string,
+    clubId: string,
+    clubName: string,
     dateOfBirth: string,
     position: string, // type for 'FW', 'MD', 'DF', 'GK'
     nationality: string
