@@ -1,6 +1,7 @@
 import React from 'react';
 import { Player } from './PlayerGuess';
-import { Autocomplete, Button, TextField } from '@mui/material';
+import { Autocomplete, Box, Button, TextField } from '@mui/material';
+import { ClubIcon } from '../Icons/ClubIcon';
 
 interface PlayerGuessSearchBoxProps {
     players: Player[],
@@ -62,7 +63,6 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
         return (
             <React.Fragment>
                 <div style={{ display: 'flex', width: '800px', margin: 'auto' }}>
-                    {/*<img src="https://media.api-sports.io/football/players/882.png" />*/}
                     <Autocomplete
                         freeSolo
                         id="players-auto"
@@ -71,6 +71,12 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
                         onInputChange={(_, value) => this.handleInputChange(value)}
                         options={this.props.players}
                         getOptionLabel={(option) => (option as Player).name}
+                        renderOption={(props, option) => ( 
+                            <Box component="li" sx={{ '& > img': { mr: 2, flexShrink: 0 } }} {...props}>
+                                <ClubIcon clubName={option.clubName} style={{ width: 20 }} />
+                                {option.name}
+                            </Box>
+                        )}
                         renderInput={(params) => (
                             <TextField
                                 {...params}
