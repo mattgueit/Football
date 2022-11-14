@@ -45,7 +45,7 @@ function resolveClubIcon(clubName: string) {
 			return astonVillaIcon;
 		case 'Brentford':
 			return brentfordIcon;
-		case 'Brighton Hove Albion':
+		case 'Brighton & Hove Albion':
 			return brightonHoveAlbionIcon;
 		case 'Chelsea':
 			return chelseaIcon;
