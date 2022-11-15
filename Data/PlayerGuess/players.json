@@ -285,7 +285,7 @@
      "clubName": "Arsenal",
      "dateOfBirth": "1994-06-24",
      "position": "GK",
-     "nationality": "United States"
+     "nationality": "United States of America"
     },
     {
      "id": 33,
@@ -690,7 +690,7 @@
      "clubName": "Brentford",
      "dateOfBirth": "1996-09-03",
      "position": "MID",
-     "nationality": "DR Congo"
+     "nationality": "Congo"
     },
     {
      "id": 78,
@@ -888,7 +888,7 @@
      "clubName": "Chelsea",
      "dateOfBirth": "1998-09-18",
      "position": "FWD",
-     "nationality": "United States"
+     "nationality": "United States of America"
     },
     {
      "id": 100,
@@ -1239,7 +1239,7 @@
      "clubName": "Crystal Palace",
      "dateOfBirth": "1992-11-10",
      "position": "MID",
-     "nationality": "Cote D’Ivoire"
+     "nationality": "Côte d'Ivoire"
     },
     {
      "id": 139,
@@ -1302,7 +1302,7 @@
      "clubName": "Everton",
      "dateOfBirth": "1987-06-20",
      "position": "GK",
-     "nationality": "Bosnia & Herzegovina"
+     "nationality": "Bosnia and Herzegovina"
     },
     {
      "id": 146,
@@ -1419,7 +1419,7 @@
      "clubName": "Everton",
      "dateOfBirth": "1989-09-16",
      "position": "FWD",
-     "nationality": "Venezuela"
+     "nationality": "Venezuela (Bolivarian Republic of)"
     },
     {
      "id": 159,
@@ -1581,7 +1581,7 @@
      "clubName": "Fulham",
      "dateOfBirth": "1992-03-10",
      "position": "FWD",
-     "nationality": "DR Congo"
+     "nationality": "Congo"
     },
     {
      "id": 177,
@@ -1635,7 +1635,7 @@
      "clubName": "Leeds United",
      "dateOfBirth": "2000-10-22",
      "position": "MID",
-     "nationality": "United States"
+     "nationality": "United States of America"
     },
     {
      "id": 183,
@@ -1806,7 +1806,7 @@
      "clubName": "Leeds United",
      "dateOfBirth": "1999-02-14",
      "position": "MID",
-     "nationality": "United States"
+     "nationality": "United States of America"
     },
     {
      "id": 202,
@@ -3057,7 +3057,7 @@
      "clubName": "Nottingham Forest",
      "dateOfBirth": "1992-12-24",
      "position": "DEF",
-     "nationality": "Cote D’Ivoire"
+     "nationality": "Côte d'Ivoire"
     },
     {
      "id": 341,
@@ -3093,7 +3093,7 @@
      "clubName": "Nottingham Forest",
      "dateOfBirth": "1991-02-03",
      "position": "DEF",
-     "nationality": "Cote D’Ivoire"
+     "nationality": "Côte d'Ivoire"
     },
     {
      "id": 345,
@@ -3318,7 +3318,7 @@
      "clubName": "Tottenham Hotspur",
      "dateOfBirth": "1992-07-08",
      "position": "FWD",
-     "nationality": "South Korea"
+     "nationality": "Republic of Korea"
     },
     {
      "id": 370,
@@ -3525,7 +3525,7 @@
      "clubName": "West Ham United",
      "dateOfBirth": "1996-09-27",
      "position": "MID",
-     "nationality": "Cote D’Ivoire"
+     "nationality": "Côte d'Ivoire"
     },
     {
      "id": 393,

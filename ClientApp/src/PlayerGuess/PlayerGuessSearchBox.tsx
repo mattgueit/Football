@@ -18,8 +18,6 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
     constructor(props: Readonly<PlayerGuessSearchBoxProps>) {
         super(props);
 
-        console.log('initial receive props - searchbox', props.players);
-
         this.state = {
             input: '',
             guessed: false,

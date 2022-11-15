@@ -3,6 +3,7 @@ import moment from 'moment';
 import { Player } from '../PlayerGuess';
 import { PlayerGuessHistoryItemProperty } from './PlayerGuessHistoryItemProperty';
 import { ClubIcon } from '../../Icons/ClubIcon';
+import { NationFlagIcon } from '../../Icons/NationFlagIcon';
 
 interface PlayerGuessHistoryRowProps {
     key: number,
@@ -17,6 +18,8 @@ enum AgeGuessStatus {
 }
 
 export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
+    const nationFlag = createNationFlag(props.guessedPlayer.nationality);
+
     const clubIcon = createClubIcon(props.guessedPlayer.clubName);
 
     const positionLargeText = createLargeText(props.guessedPlayer.position);
@@ -41,7 +44,7 @@ export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
                 <div style={{ display: 'flex', maxHeight: '100px' }}>
                     <PlayerGuessHistoryItemProperty
                         key='nationality'
-                        itemProperty={props.guessedPlayer.nationality}
+                        itemProperty={nationFlag}
                         isCorrect={nationalityIsCorrect}
                     />
                     <PlayerGuessHistoryItemProperty
@@ -63,6 +66,22 @@ export function PlayerGuessHistoryRow(props: PlayerGuessHistoryRowProps) {
             </div>
         </React.Fragment>
     );
+}
+
+function createNationFlag(nationality: string) {
+    const divStyle = {
+        position: 'relative',
+        top: '15%',
+        left: '15%',
+        height: '70%',
+        width: '70%'
+    }; 
+
+    const svgStyle = {
+        borderRadius: '40px'
+    };
+
+    return <NationFlagIcon nationality={nationality} svgStyle={svgStyle} divStyle={divStyle} />
 }
 
 
