@@ -88,10 +88,10 @@ function createNationFlag(nationality: string) {
 function createClubIcon(clubName: string) {
     const iconStyle = {
         position: 'relative',
-        top: '10%',
-        left: '10%',
-        height: '80%',
-        width: '80%'
+        top: '15%',
+        left: '15%',
+        height: '70%',
+        width: '70%'
     }
 
     return <ClubIcon clubName={clubName} style={iconStyle} />

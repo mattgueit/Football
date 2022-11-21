@@ -33,7 +33,6 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
     // on every player selection / removal in search box
     handleChange(value: string | Player | null) {
         if (value === null || ((value as string).length == 0)) {
-            console.log('handleChange', value);
             this.setState({ guessed: false });
             return;
         }
@@ -43,6 +42,9 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
                 guessed: true,
                 guessedPlayer: value
             });
+        }
+        else {
+            this.setState({ guessed: false });
         }
     }
 
@@ -55,6 +57,13 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
         if (this.state.guessed) {
             this.props.onGuess((this.state.guessedPlayer as Player));
         }
+
+        this.setState(
+            {
+                input: '',
+                guessed: false
+            }
+        );
     }
 
     render() {
@@ -66,7 +75,7 @@ export class PlayerGuessSearchBox extends React.Component<PlayerGuessSearchBoxPr
                         id="players-auto"
                         inputValue={this.state.input}
                         onChange={(_, value) => this.handleChange(value)}
-                        onInputChange={(_, value) => this.handleInputChange(value)}
+                        onInputChange={(_, newInputValue) => this.handleInputChange(newInputValue)}
                         options={this.props.players}
                         getOptionLabel={(option) => (option as Player).name}
                         renderOption={(props, option) => ( 
